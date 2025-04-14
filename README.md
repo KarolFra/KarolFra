@@ -1,5 +1,5 @@
 
-## Hi, I’m Karol! 
+## 👋 Hi, I’m Karol! 
 - 🔌 I’m studying Mechatronics at Politechnika Wrocławska.
 - 🛠 I love tinkering with **electrical circuits** and writing **software**.
 - 💻 Currently learning **Python**, **C++**, and embedded/IoT development.
@@ -13,7 +13,7 @@ I’m worked on projects that combine hardware and software, like:
 
 ---
 
-## Right now I'm working on:
+## 🌀 Right now I'm working on:
 - Designs a mechatronic system for delivering meals within a restaurant (route defined by reference points on the ceiling).
 Currently focused on constructing the mechanical portion of the mechatronic system.
 - Improving the projects of a conveyor belt based on the mqtt protocol.
