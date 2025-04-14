@@ -7,7 +7,7 @@
 ---
 
 ## ⚡ About My Projects
-I’m working on projects that combine hardware and software, like:
+I’m worked on projects that combine hardware and software, like:
 - Raspberry Pi + MQTT + OpenCV video measurement system with ESP32-based conveyor belt controller
 - Some production projects in TIA Portal V16 and SIMATIC S7-300 &  S7-1200. I also used CX-programmer from Omron.
 
