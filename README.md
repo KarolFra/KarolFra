@@ -1,5 +1,5 @@
 
-## Hi there, I’m Karol! 
+## Hi, I’m Karol! 
 - 🔌 I’m studying Mechatronics at Politechnika Wrocławska.
 - 🛠 I love tinkering with **electrical circuits** and writing **software**.
 - 💻 Currently learning **Python**, **C++**, and embedded/IoT development.
