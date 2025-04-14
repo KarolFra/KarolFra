@@ -22,8 +22,8 @@ Currently focused on constructing the mechanical portion of the mechatronic syst
 
 ## 📬 How to reach me
 <p>
-  <a href="mailto:YourEmail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="karol.franczak23@wp.pl"/>
+  <a href="mailto:karol.franczak23@wp.pl" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
