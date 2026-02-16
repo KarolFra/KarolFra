@@ -24,7 +24,8 @@ I like building things where **hardware meets software**: electronics, embedded/
 **Communication**
 - MQTT
 - CAN (2.0A & 2.0B)
-- UART/I2C/SPI/RS232]
+- UART/I2C/SPI/RS232
+  
 **Tools**
 - STM32CubeIDE
 - VS Code + PlatformIO
@@ -55,7 +56,8 @@ Robot delivering meals with route defined by **ArUco markers** on the ceiling.
 ## 🔍 AOI prototype (Engineering thesis)
 Prototype testbench for automated optical inspection on PCB boards.
 - Tech: Raspberry Pi, Python, OpenCV, MQTT, ESP32, Flask, YOLO, ONNX, AI, KiCad.
-
+- No valid repo, but final photos and results here: [[(link)](https://github.com/KarolFra/PUM/tree/main)](https://github.com/KarolFra/venv_4_train)
+  A blog post will appear soon on the SNS Automatyk student research group’s blog.
 ## 📮 ESP32 MicroPython “mailbox” device
 Small device that sends messages and photos via email (Wi-Fi).
 - Tech: ESP32, MicroPython
